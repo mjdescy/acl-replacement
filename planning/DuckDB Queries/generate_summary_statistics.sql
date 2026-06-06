@@ -1,0 +1,2 @@
+-- Execution
+SUMMARIZE source;
